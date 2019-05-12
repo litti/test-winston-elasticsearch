@@ -1,0 +1,24 @@
+{
+  "name": "test-winston-elasticsearch",
+  "version": "0.0.1",
+  "description": "test-winston-elasticsearch",
+  "main": "app.js",
+  "dependencies": {
+    "winston": "^3.2.1",
+    "winston-elasticsearch": "git+https://github.com/litti/winston-elasticsearch.git"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/litti/test-winston-elasticsearch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/litti/test-winston-elasticsearch/issues"
+  },
+  "homepage": "https://github.com/litti/test-winston-elasticsearch#readme"
+}
